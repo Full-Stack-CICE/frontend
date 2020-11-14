@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/kamilo923)  
 ![GitHub licence](https://img.shields.io/github/license/Full-Stack-CICE/frontend)
-![GitHub commit-activity](https://img.shields.io/github/commit-activity/m/Full-Stack-CICE/frontend)
+![GitHub commitactivity](https://img.shields.io/github/commit-activity/m/Full-Stack-CICE/frontend)
 ![GitHub repo-size](https://img.shields.io/github/repo-size/Full-Stack-CICE/frontend)
 ![GitHub contributors](https://img.shields.io/github/contributors/Full-Stack-CICE/frontend)
 ![GitHub last-commit](https://img.shields.io/github/last-commit/Full-Stack-CICE/frontend)
